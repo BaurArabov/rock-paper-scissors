@@ -53,19 +53,16 @@ class Item(pygame.sprite.Sprite):
             if other.type == ItemType.SCISSORS:
                 self.type = ItemType.SCISSORS
                 self.load_image()
-                # Play scissors sound
                 scissors_sound.play()
         elif self.type == ItemType.SCISSORS:
             if other.type == ItemType.ROCK:
                 self.type = ItemType.ROCK
                 self.load_image()
-                # Play rock sound
                 rock_sound.play()
         elif self.type == ItemType.ROCK:
             if other.type == ItemType.PAPER:
                 self.type = ItemType.PAPER
                 self.load_image()
-                # Play paper sound
                 paper_sound.play()
 
     def reflect_collided(self, window_size: Window):
