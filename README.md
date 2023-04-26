@@ -17,7 +17,7 @@
 
 ## Превью
 
-![Preview of Rock, Paper, Scissors game](https://tenor.googleapis.com/v2/media?id=17094489757882248221&format=optimizedgif&client_key=tenor_web&access_token=ya29.a0Ael9sCNhqoyzNOIiol6qx3Yiy5RJVx0p_OnzoypR-RyW-kOO9N3Jpv3iqI1p_odS-RnOLs6smRIAsRVZaZBIxP1KQBaoARCZzL56yJdHW_dzNK7FVzUHwePhpeGaXdhV2EDNrZ8Pnn0PCqTSEqmN6AYGwxG4aCgYKAegSARASFQF4udJhKpt7oXDqNw-zYl_GEWvyeg0163&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8)
+![Preview of Rock, Paper, Scissors game](https://github.com/BaurArabov/rock-paper-scissors/blob/master/preview-_2_.gif)
 
 
 
